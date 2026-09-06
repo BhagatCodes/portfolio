@@ -110,7 +110,7 @@ export default function Hero() {
           animate={{ opacity: 1, scale: 1 }}
           transition={{ delay: 0.3, duration: 0.8, ease: [0.16, 0.84, 0.44, 1] }}
         >
-          <img src="public\images\shubham-photo.jpg" alt="Shubham Chauhan, Software Engineer" />
+          <img src="..\images\shubham-photo.jpg" alt="Shubham Chauhan, Software Engineer" />
           <span className="hero-photo-status" />
         </motion.div>
       </div>
